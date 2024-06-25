@@ -1,6 +1,6 @@
 Name :- Pagadala Akshay Kumar
 
-Domain :- Java internship
+Domain :- Python Internship
 
 Intern ID :- SMI68334
 
